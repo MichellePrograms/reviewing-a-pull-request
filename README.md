@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
@@ -22,4 +22,8 @@ To play the game:
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-more content
+
+More content
+
+more content 2
+
